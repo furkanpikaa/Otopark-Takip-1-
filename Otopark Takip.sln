@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otopark Takip", "Otopark Takip\Otopark Takip.csproj", "{3DAA1102-9549-451F-993E-DE8FC239AE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DAA1102-9549-451F-993E-DE8FC239AE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAA1102-9549-451F-993E-DE8FC239AE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAA1102-9549-451F-993E-DE8FC239AE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAA1102-9549-451F-993E-DE8FC239AE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A038E84C-5C1D-4552-A11F-9E1FD35E16DA}
+	EndGlobalSection
+EndGlobal
